@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Barış</h1>
 <h3 align="center">A Programming student from Turkey in Eskişehir Osmangazi University.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisatay0&label=Profile%20views&color=0e75b6&style=flat" alt="barisatay0" /> </p>
 - 🌱 I’m currently learning **Php , React , C# and more...**
 
 - 💬 Ask me about **Php , C# , Bootstrap And Javascript**
