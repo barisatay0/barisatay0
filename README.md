@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-icons-png.flaticon.com/128/6428/6428363.png)
+![MasterHead](https://wallpapers.com/images/hd/professional-web-developer-working-on-a-code-setup-j8ljvi05wloqs3ii.jpg)
 
 <h1 align="center">Hi , I'm Barış</h1>
 <h3 align="center">A Programming student from Turkey in Eskişehir Osmangazi University.</h3>
