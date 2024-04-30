@@ -4,7 +4,7 @@
 <h3 align="center">A Programming student from Turkey in Eskişehir Osmangazi University.</h3>
 - 🌱 I’m currently learning **Php , React , C# and more...**
 
-- 💬 Ask me about **Php , C# , Bootstrap And Javascript**
+- 💬 Ask me about **Laravel , Php , C# , Bootstrap And Javascript**
 
 - 📫 How to reach me **barisatay0@hotmail.com**
 
