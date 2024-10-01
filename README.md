@@ -1,10 +1,10 @@
 ![MasterHead](https://wallpapers.com/images/hd/professional-web-developer-working-on-a-code-setup-j8ljvi05wloqs3ii.jpg)
 
 <h1 align="center">Hi , I'm Barış</h1>
-<h3 align="center">A Programming student from Turkey in Eskişehir Osmangazi University.</h3>
-- 🌱 I’m currently learning **Php , React , C# and more...**
+<h3 align="center">I was a programming student at Eskişehir Osmangazi University, and now I have become a backend developer.</h3>
+- 🌱 I’m currently learning **Php , Python , C# and more...**
 
-- 💬 Ask me about **Laravel , Php , C# , Bootstrap And Javascript**
+- 💬 Ask me about **Laravel , Python and more...**
 
 - 📫 How to reach me **barisatay0@hotmail.com**
 
