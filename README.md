@@ -6,12 +6,12 @@
 ---
 
 ### 🌱 Currently Learning:
-- **PHP**, **Python** and many more... 
+- **PHP**, **Python**, **Javascript** and many more... 
 
 ---
 
 ### 💬 Ask Me About:
-- **Laravel**, **Python**, **Backend/Software Development**, and how to drink coffee (professionally)
+- **Laravel**, **Python**, **Javascript**, **Backend/Software Development**, and how to drink coffee (professionally)
 
 ---
 
