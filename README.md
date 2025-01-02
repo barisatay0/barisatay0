@@ -19,7 +19,7 @@
       d     ...oood88888888888888888888888b    8d88888888888888
      dood8888888888888888888888888888888888b
 
-<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay / Software Developer / Coffee Enthusiast ☕</h1>
+<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay | Software Developer | Coffee Enthusiast ☕</h1>
 
 ---
 
