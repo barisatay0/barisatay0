@@ -80,8 +80,10 @@
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" style="width: 400px; margin-bottom: 3px;" />
+<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=blue-green" alt="GitHub Streak" style="width: 400px; margin-bottom: 3px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" style="width: 400px; margin-bottom: 3px;" />
+<br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" style="width: 400px; " />
 </div>
 
 ---
