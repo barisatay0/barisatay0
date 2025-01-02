@@ -13,21 +13,21 @@
 ---
 
 ### 🌱 Currently Learning:
-<p align="center" style="font-size: 18px; color: green; font-family: 'Arial', sans-serif; font-weight: 600;">
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; font-weight: 600;">
   - **Python**, **Javascript**, **Node.js**, **Express.js** and many more...
 </p>
 
 ---
 
 ### 💬 Ask Me About:
-<p align="center" style="font-size: 18px; color: green; font-family: 'Arial', sans-serif; font-weight: 600;">
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; font-weight: 600;">
   - **Php**, **Python**, **Javascript**, **Backend/Software Development**, **Machine Learning**, and how to drink coffee (professionally)
 </p>
 
 ---
 
 ### 📫 How to Reach Me:
-<p align="center" style="font-size: 18px; color: green; font-family: 'Arial', sans-serif;">
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">
   - Email: [barisatay0@hotmail.com](mailto:barisatay0@hotmail.com)  
   - Or, you know, just send a carrier pigeon. 🕊️
 </p>
@@ -81,8 +81,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" style="width: 400px; margin-bottom: 3px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=blue-green" alt="GitHub Streak" style="width: 400px; margin-bottom: 3px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" style="width: 400px; margin-bottom: 3px;" />
 </div>
+
 ---
 
 <p align="center" style="font-size: 20px; color: #6c757d; font-family: 'Roboto', sans-serif; font-style: italic;">Still debugging life one step at a time.</p>
