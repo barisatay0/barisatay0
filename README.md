@@ -19,8 +19,7 @@
       d     ...oood88888888888888888888888b    8d88888888888888
      dood8888888888888888888888888888888888b
 
-<h1  align="center" style="font-family: 'Roboto', sans-serif; font-size: 50px; margin-top: 50px;">Hi, I'm Barış</h1>
-<h3 align="center" style="font-family: 'Roboto', sans-serif; color: #3e4a59; font-size: 30px;">Software Developer</h3>
+<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay / Software Developer / Coffee Enthusiast ☕</h1>
 
 ---
 
