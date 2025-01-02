@@ -1,54 +1,49 @@
 ```bash
-# Welcome to Barış's Interactive README Terminal 🚀
+# Welcome to Barış's profile 🚀
 # Loading Profile...
-# If you're reading this, congrats! You've found an easter egg 🐣.
-# Let's debug life together, one coffee at a time ☕.
-
+# Debugging life, one line of code at a time! 💻☕
 ```
+<h1  align="center" style="font-family: 'Roboto', sans-serif; font-size: 50px; margin-top: 50px;">Hi, I'm Barış</h1>
+<h3 align="center" style="font-family: 'Roboto', sans-serif; color: #3e4a59; font-size: 30px;">Software Developer</h3>
 
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200">
-    <rect width="100%" height="100%"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="green" font-size="24" font-family="'Courier New', Courier, monospace">
-      console.log("Hi, I'm Barış! 👋");
-    </text>
-    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="green" font-size="18" font-family="'Courier New', Courier, monospace">
-      // Software Developer, Coffee Enthusiast ☕
-    </text>
-  </svg>
-</div>
+---
+
+### 🚀 About Me
+- **👨‍💻 Software Developer:** Turning ideas into efficient, scalable solutions.
+- **☕ Coffee Connoisseur:** Fueling creativity one cup at a time.
+- **🌱 Lifelong Learner:** Always exploring new technologies and methodologies.
 
 ---
 
 ### 🌱 Currently Learning:
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; font-weight: 600;">
-  - **Python**, **Javascript**, **Node.js**, **Express.js** and many more...
-</p>
+- **Python**, **Node.js**, **Express.js**, and **Modern Web Frameworks**
+- Deep diving into **Machine Learning** and **AI** concepts.
 
 ---
 
 ### 💬 Ask Me About:
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; font-weight: 600;">
-  - **Php**, **Python**, **Javascript**, **Backend/Software Development**, **Machine Learning**, and how to drink coffee (professionally)
-</p>
+- **Backend Development** with **PHP**, **Python**, **Node.js**
+- **Machine Learning**: Theory, applications, and libraries like TensorFlow
+- Anything tech—or coffee-related! ☕
 
 ---
 
 ### 📫 How to Reach Me:
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">
-  - Email: [barisatay0@hotmail.com](mailto:barisatay0@hotmail.com)  
-  - Or, you know, just send a carrier pigeon. 🕊️
-</p>
+- **📧 Email:** [barisatay0@hotmail.com](mailto:barisatay0@hotmail.com)
+- **🕊️ Fun Option:** Send a carrier pigeon. I might reply.
 
 ---
 
-### 🌍 Connect with Me:
+### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.instagram.com/barisatay0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+  <a href="https://www.instagram.com/barisatay0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="www.linkedin.com/in/barış-atay" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/barış-atay/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/barisatay0" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" width="40" />
   </a>
 </p>
 
@@ -56,50 +51,31 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="django" width="50" height="50" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="tensorflow" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
 </p>
 
 ---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" style="width: 400px; margin-bottom: 3px;" />
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=blue-green" alt="GitHub Streak" style="width: 400px; margin-bottom: 3px;" />
-<br> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" style="width: 400px; " />
+  <img src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="width: 400px; margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=radical" alt="GitHub Streak" style="width: 400px; margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 400px;" />
 </div>
 
 ---
 
-<p align="center" style="font-size: 20px; color: #6c757d; font-family: 'Roboto', sans-serif; font-style: italic;">Still debugging life one step at a time.</p>
-
----
+<p align="center" style="font-size: 18px; color: #7a7a8c; font-family: 'Roboto', sans-serif; font-style: italic;">
+Still debugging life one step at a time.
+</p>
 
 ```bash
-# End of README. Now grab a coffee and let's code! ☕
+# End of README. Now let's make some magic happen! ✨
 ```
