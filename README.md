@@ -1,3 +1,11 @@
+```bash
+# Welcome to Barış's Interactive README Terminal 🚀
+# Loading Profile...
+# If you're reading this, congrats! You've found an easter egg 🐣.
+# Let's debug life together, one coffee at a time ☕.
+
+```
+
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200">
     <rect width="100%" height="100%"/>
@@ -91,3 +99,7 @@
 <p align="center" style="font-size: 20px; color: #6c757d; font-family: 'Roboto', sans-serif; font-style: italic;">Still debugging life one step at a time.</p>
 
 ---
+
+```bash
+# End of README. Now grab a coffee and let's code! ☕
+```
