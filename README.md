@@ -1,25 +1,4 @@
-                                    ooooooooooooooooooooooooooooooooooooo
-                                    8                                .d88
-                                    8  oooooooooooooooooooooooooooood8888
-                                    8  8888888888888888888888888P"   8888    oooooooooooooooo
-                                    8  8888888888888888888888P"      8888    8              8
-                                    8  8888888888888888888P"         8888    8             d8
-                                    8  8888888888888888P"            8888    8            d88
-                                    8  8888888888888P"               8888    8           d888
-                                    8  8888888888P"                  8888    8          d8888
-                                    8  8888888P"                     8888    8         d88888
-                                    8  8888P"                        8888    8        d888888
-                                    8  8888oooooooooooooooooooooocgmm8888    8       d8888888
-                                    8 .od88888888888888888888888888888888    8      d88888888
-                                    8888888888888888888888888888888888888    8     d888888888
-                                                                             8    d8888888888
-                                       ooooooooooooooooooooooooooooooo       8   d88888888888
-                                      d                       ...oood8b      8  d888888888888
-                                     d              ...oood888888888888b     8 d8888888888888
-                                    d     ...oood88888888888888888888888b    8d88888888888888
-                                    dood8888888888888888888888888888888888b
-
-<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay | Software Developer | Coffee Enthusiast ☕</h1>
+<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay | Software Developer | ☕</h1>
 
 ---
 
@@ -31,16 +10,14 @@
 ---
 
 ### 🌱 Currently Learning:
-- **Python**, **Node.js**, **Express.js**, and **Modern Web Frameworks**
-- Deep diving into **Machine Learning** and **AI** concepts.
+- **Node.js**,**TypeScript**, **Express.js**, and **Modern Web Frameworks**
+- Deep diving into **Backend development**.
 
 ---
 
 ### 💬 Ask Me About:
-- **Backend Development** with **PHP**, **Python**, **Node.js**
-- **Machine Learning**: Theory, applications, and libraries like TensorFlow
-- Anything tech—or coffee-related! ☕
-
+- **Backend Development** with  **Node.js**, **PHP**, **Python**
+  
 ---
 
 ### 📫 How to Reach Me:
