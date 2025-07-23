@@ -2,7 +2,7 @@
 
 #  Barış Atay
 
-### 🚀 Full-Stack Developer | ☕ Coffee Enthusiast | 🌱 Tech Explorer
+### 🚀 Backend Developer | ☕ Coffee Enthusiast | 🌱 Tech Explorer
 
 ---
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const developer = {
@@ -24,7 +24,7 @@ const developer = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -57,21 +57,21 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - 🔥 **Advanced TypeScript** patterns and best practices
 - 🏗️ **System Architecture** and scalable backend design
 - 🚀 **Modern Web Development** with cutting-edge frameworks
 - 📱 **Full-Stack Development** mastery
 
-## 💡 Fun Facts
+## Fun Facts
 
 - 🌙 I code best during late night hours
 - ☕ My code quality is directly proportional to my coffee intake
 - 🐛 I believe every bug is just an undocumented feature
 - 📚 Always reading tech blogs and documentation
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
