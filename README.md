@@ -1,108 +1,100 @@
-<h1  align="center" style="font-family: 'Roboto', sans-serif;">Barış Atay | Software Developer | ☕</h1>
+<div align="center">
+
+#  Barış Atay
+
+### 🚀 Full-Stack Developer | ☕ Coffee Enthusiast | 🌱 Tech Explorer
 
 ---
 
-### 🚀 About Me
-- **👨‍💻 Software Developer:** Turning ideas into efficient, scalable solutions.
-- **☕ Coffee Connoisseur:** Fueling creativity one cup at a time.
-- **🌱 Lifelong Learner:** Always exploring new technologies and methodologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+Learning;Building+Digital+Solutions;Software+Developer;Open+Sourcerer" alt="Typing SVG" />
 
----
+</div>
 
-### 🌱 Currently Learning:
-- **TypeScript**, and **Modern Web Frameworks**
-- Deep diving into **Backend development**.
+## 🎯 About Me
 
----
+```typescript
+const developer = {
+    name: "Barış Atay",
+    role: "Software Developer",
+    location: "Turkey 🇹🇷",
+    currentFocus: ["TypeScript", "Modern Web Frameworks", "Backend Architecture"],
+    interests: ["Clean Code", "System Design", "Open Source"],
+    dailyFuel: "☕ Coffee",
+    lifePhilosophy: "Code, Learn, Repeat"
+};
+```
 
-### 💬 Ask Me About:
-- **Backend Development** with  **Node.js**, **PHP**, **Python**
-  
----
-
-### 📫 How to Reach Me:
-- **📧 Email:** [barisatay0@hotmail.com](mailto:barisatay0@hotmail.com)
-- **🕊️ Fun Option:** Send a carrier pigeon. I might reply.
-
----
-
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.instagram.com/barisatay0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/barış-atay/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://github.com/barisatay0" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" width="40" />
-  </a>
-</p>
-
----
-### 🛠️ Languages
-<p align="center">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  </a>
-</p>
-
-### 🛠️ Frameworks
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50" />
-  </a>
-</p>
-
-### 🛠️ Databases
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  </a>
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-  </a>
-</p>
-
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="width: 400px; margin-bottom: 10px;" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=radical" alt="GitHub Streak" style="width: 400px; margin-bottom: 10px;" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barisatay0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 400px;" />
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript" alt="Languages" />
+</p>
+
+### Frameworks & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,elysia" alt="Frameworks" />
+ <img width="50" alt="A logo of Hono." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hono-logo.svg/50px-Hono-logo.svg.png?20241021114523">
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,docker,vim,linux" alt="Tools" />
+</p>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barisatay0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisatay0&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisatay0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌱 Currently Exploring
+
+- 🔥 **Advanced TypeScript** patterns and best practices
+- 🏗️ **System Architecture** and scalable backend design
+- 🚀 **Modern Web Development** with cutting-edge frameworks
+- 📱 **Full-Stack Development** mastery
+
+## 💡 Fun Facts
+
+- 🌙 I code best during late night hours
+- ☕ My code quality is directly proportional to my coffee intake
+- 🐛 I believe every bug is just an undocumented feature
+- 📚 Always reading tech blogs and documentation
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisatay0@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barış-atay/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barisatay0)
+
 </div>
 
 ---
 
-<p align="center" style="font-size: 18px; color: #7a7a8c; font-family: 'Roboto', sans-serif; font-style: italic;">
-Still debugging life one step at a time.
-</p>
+<div align="center">
+  
+### 🎵 *"In a world full of algorithms, be the creative exception."*
 
-```bash
-# End of README. Now let's make some magic happen! ✨
+</div>
+
+```javascript
+// Life motto
+while (alive) {
+    code();
+    learn();
+    coffee();
+    repeat();
+}
 ```
