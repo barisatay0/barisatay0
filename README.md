@@ -36,7 +36,7 @@ const developer = {
 ### Frameworks & Runtime
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,elysia" alt="Frameworks" />
- <img width="50" alt="A logo of Hono." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hono-logo.svg/50px-Hono-logo.svg.png?20241021114523">
+ <img width="50" alt="A logo of Hono." src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg">
 </p>
 
 ### Databases & Tools
